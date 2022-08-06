@@ -1,7 +1,7 @@
 fun main()
 {
     println("student enrollment no :")
-    var a= readLine()!!.toInt()
+    var a= readLine()!!.toDouble()
     println("student name :")
     var b= readLine()!!
     println("student branch :")
