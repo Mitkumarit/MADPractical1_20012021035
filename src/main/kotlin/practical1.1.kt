@@ -1,14 +1,14 @@
 fun main()
 {
-    var x:Int=5
-    var y =2.5f
-    var z = 'T'
-    var a = "HMS"
-    var b = false
-    var c = 96.36f
-    var d = 338927847
-    var e = -2
-    var f = 127
+    val x:Int=5
+    val y =2.5f
+    val z = 'T'
+    val a = "HMS"
+    val b = false
+    val c = 96.36f
+    val d = 338927847
+    val e = -2
+    val f = 127
 
 
     println(" integer value:$x" )
