@@ -1,21 +1,21 @@
 fun main()
 {
     println("student enrollment no :")
-    var a= readLine()!!.toDouble()
+    val a= readLine()!!.toDouble()
     println("student name :")
-    var b= readLine()!!
+    val b= readLine()!!
     println("student branch :")
-    var c= readLine()!!
+    val c= readLine()!!
     println("student class :")
-    var d= readLine()!!
+    val d= readLine()!!
     println("student batch :")
-    var e= readLine()!!
+    val e= readLine()!!
     println("student college name :")
-    var f= readLine()!!
+    val f= readLine()!!
     println("student university name :")
-    var i= readLine()!!
+    val i= readLine()!!
     println("student age :")
-    var j= readLine()!!.toInt()
+    val j= readLine()!!.toInt()
 
     println("student enrollment no :$a")
     println("student name :$b")
